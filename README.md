@@ -23,7 +23,7 @@ Right now, I'm a Front-end Developer. Worked on 10+ web and mobile projects alon
 <img alt="Wave 2" src="./assets/wave-2.svg" width="100%" />
 
 ## Languages and Tools
-`JavaScript` |  `React` | `Angular` | `NodeJS` | `TypeScript` | `NextJS` | `Express` | `HTML` |`SCSS` | `Styled Components` | `Ruby` | `RoR` | `Swift`
+`JavaScript` |  `React` | `Angular` | `NodeJS` | `TypeScript` | `NextJS` | `Express` | `HTML` | `SCSS` | `Styled Components` | `Ruby` | `RoR` | `Swift`
 
 <br />
 
