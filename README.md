@@ -15,7 +15,6 @@ Right now, I'm a Front-end Developer. Worked on 10+ web and mobile projects alon
 ## What I’m doing now
 
 - 💻 I'm working on my portfolio.
-- 👨‍💻 I'm looking for a position as a Software Engineer / Front-end. 
 - 🖨 I'm learning how to use a 3D Printer. 
 
 <br />
